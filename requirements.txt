@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pyodbc
+bcrypt
+python-dotenv
+Werkzeug
+datetime
